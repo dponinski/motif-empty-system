@@ -1,0 +1,15 @@
+{
+  "name": "motif-empty-system",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "devDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0"
+  }
+}
