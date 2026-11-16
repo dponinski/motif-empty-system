@@ -1,0 +1,29 @@
+/* Design tokens, kept in sync with Motif. */
+
+:root {
+  --primary-100: #e3e7fe;
+  --primary-200: #cdd5ff;
+  --primary-300: #b0bbff;
+  --primary-400: #8a95ff;
+  --primary-500: #6366f1;
+  --primary-600: #5855ed;
+  --primary-700: #4a43d4;
+  --primary-800: #3c37ae;
+  --primary-900: #333092;
+  --primary-950: #1f1b63;
+  --primary-50: #f3f5fe;
+}
+
+@theme inline {
+  --color-primary-100: var(--primary-100);
+  --color-primary-200: var(--primary-200);
+  --color-primary-300: var(--primary-300);
+  --color-primary-400: var(--primary-400);
+  --color-primary-500: var(--primary-500);
+  --color-primary-600: var(--primary-600);
+  --color-primary-700: var(--primary-700);
+  --color-primary-800: var(--primary-800);
+  --color-primary-900: var(--primary-900);
+  --color-primary-950: var(--primary-950);
+  --color-primary-50: var(--primary-50);
+}
